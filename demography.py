@@ -87,7 +87,7 @@ class DemographyByCountryAndYear(BaseModel):
         title = "Demographic Pyramid by Country and Year"
         examples = [
             "Demography for Spain",
-            "Italy's population pyramid in {DEM_MIN_YEAR}",
+            f"Italy's population pyramid in {DEM_MIN_YEAR}",
         ]
 
         context_actions = [Country.to_context_action()]
