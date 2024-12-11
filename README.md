@@ -3,6 +3,8 @@
 
 A sample Python extension for [Gloodata](https://gloodata.com/) that displays fertility and demographic data from [Our World in Data: Population & Demography Data Explorer](https://ourworldindata.org/explorers/population-and-demography).
 
+![Extension Preview](https://raw.githubusercontent.com/gloodata/ext-py-demography/refs/heads/main/resources/ext-preview.webp)
+
 ## Getting Started
 
 ### Running the Extension
